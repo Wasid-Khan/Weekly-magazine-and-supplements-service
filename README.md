@@ -1,4 +1,4 @@
-# Online Weekly Personalized Magazine Service
+# Weekly Magazine and Supplements Service
 
 ## Project Description
 
